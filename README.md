@@ -1,5 +1,11 @@
 # Aegis Vulns
 
+<img width="1470" height="956" alt="Screenshot 2026-01-20 at 6 25 22 PM" src="https://github.com/user-attachments/assets/28448a51-4aab-4f61-9d73-6cf209c802b0" />
+
+
+<img width="1470" height="956" alt="Screenshot 2026-01-20 at 6 26 55 PM" src="https://github.com/user-attachments/assets/1740b225-cad5-4d69-8551-186b3ffa5f3a" />
+
+
 Aegis Vulns is a vulnerability and threat-intelligence aggregation dashboard that pulls from multiple public sources (CISA KEV, URLhaus, and security news RSS) and normalizes everything into a single analyst-style feed for quick triage.
 
 This project is actively in development and is part of an ongoing security research and tooling effort.  
